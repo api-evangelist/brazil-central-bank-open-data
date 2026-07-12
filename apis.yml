@@ -23,6 +23,10 @@ apis:
       - type: Documentation
         url: https://dadosabertos.bcb.gov.br/
 common:
+  - type: VulnerabilityDisclosure
+    url: security/brazil-central-bank-open-data-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/brazil-central-bank-open-data-domain-security.yml
   - type: Website
     url: https://dadosabertos.bcb.gov.br/
   - type: PublicAPIsListing
