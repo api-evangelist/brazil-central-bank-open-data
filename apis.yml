@@ -39,7 +39,6 @@ apis:
   - name: Brazil Central Bank Open Data
     description: "Brazil Central Bank Open Data"
     humanURL: https://dadosabertos.bcb.gov.br/
-    baseURL: https://dadosabertos.bcb.gov.br/
     tags:
       - Government
     properties:
